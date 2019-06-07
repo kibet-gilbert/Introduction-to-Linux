@@ -1,14 +1,14 @@
-Introduction to Linux
+Introduction to Linux  
+========================================================
+  ![The Penguin teacher!](Images/SenseiPenguin.png)
+  
+Gilbert and Careen  
 ========================================================
 author: Ouso D. O.
 
-date: 09-08-2018
+date: 10-06-2018
 
 autosize: true
-
-# Sensei penguin!
-========================================================
-  ![The Penguin teacher!](Images/SenseiPenguin.png)
 
 Objectives
 ========================================================
@@ -35,7 +35,7 @@ software directly to the hardware interfaces.
 
 Why Linux?
 ========================================================
-- It is FLOSS-based
+- It is [FLOSS-based](https://www.gnu.org/philosophy/floss-and-foss.en.html)
 - World's largest and most prevalent open source
 - Long Term Support (LTS)
 - Many developers around the world contribute to it
