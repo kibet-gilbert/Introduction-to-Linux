@@ -1,8 +1,9 @@
 Introduction to Linux
+Gilbert and Careen 
 ========================================================
 author: Ouso D. O.
 
-date: 09-08-2018
+date: 10-06-2019
 
 autosize: true
 
@@ -35,7 +36,7 @@ software directly to the hardware interfaces.
 
 Why Linux?
 ========================================================
-- It is FLOSS-based
+- It is [FLOSS-based](https://www.gnu.org/philosophy/floss-and-foss.en.html)
 - World's largest and most prevalent open source
 - Long Term Support (LTS)
 - Many developers around the world contribute to it
